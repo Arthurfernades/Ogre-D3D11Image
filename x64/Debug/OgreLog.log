@@ -1,0 +1,568 @@
+14:09:19: Creating resource group BSPWorld
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'BSPWorld'
+14:09:19: Creating resource group Essential
+14:09:19: Added resource location '../../packages/OgreResource/Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+14:09:19: Added resource location '../../packages/OgreResource/Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+14:09:19: Warning: Skipping 'README.txt' because it already exists in resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/packs/filament_shaders.zip' of type 'Zip' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/PBR' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/PBR/filament' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/programs/GLSL' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/programs/GLSL120' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/programs/GLSL150' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/programs/GLSL400' of type 'FileSystem' to resource group 'General'
+14:09:19: Warning: Skipping 'HW_VTFInstancing.vert' because it already exists in resource group 'General'
+14:09:19: Warning: Skipping 'Instancing.frag' because it already exists in resource group 'General'
+14:09:19: Warning: Skipping 'VTFInstancing.vert' because it already exists in resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/programs/GLSLES' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/programs/SPIRV' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/programs/Cg' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/programs/HLSL' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/programs/HLSL_Cg' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/textures' of type 'FileSystem' to resource group 'General'
+14:09:19: Warning: Skipping 'README.md' because it already exists in resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/models' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/particle' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Samples/Media/CSMShadows' of type 'FileSystem' to resource group 'General'
+14:09:19: Added resource location '../../packages/OgreResource/Media/Main' of type 'FileSystem' to resource group 'OgreInternal'
+14:09:19: Added resource location '../../packages/OgreResource/Media/RTShaderLib' of type 'FileSystem' to resource group 'OgreInternal'
+14:09:19: Added resource location '../../packages/OgreResource/Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+14:09:19: Creating resource group Tests
+14:09:19: Added resource location '../../packages/OgreResource/Tests/Media' of type 'FileSystem' to resource group 'Tests'
+14:09:19: Yes
+14:09:19: No
+14:09:19: Off
+14:09:19: On
+14:09:19: Hardware
+14:09:19: Software
+14:09:19: Warp
+14:09:19: 1
+14:09:19: 2
+14:09:19: 4
+14:09:19: 8
+14:09:19: No
+14:09:19: Yes
+14:09:19: No information queue exceptions
+14:09:19: Corruption
+14:09:19: Error
+14:09:19: Warning
+14:09:19: Info (exception on any message)
+14:09:19: 9.1
+14:09:19: 9.3
+14:09:19: 10.0
+14:09:19: 10.1
+14:09:19: 11.0
+14:09:19: 9.1
+14:09:19: 9.3
+14:09:19: 10.0
+14:09:19: 10.1
+14:09:19: 11.0
+14:09:19: (default)
+14:09:19: NVIDIA GeForce GTX 1650
+14:09:19: Microsoft Basic Render Driver (software)
+14:09:19: No
+14:09:19: Yes
+14:09:19: No
+14:09:19: Yes
+14:09:19: 1
+14:09:19: 2
+14:09:19: 3
+14:09:19: 4
+14:09:19: 640 x 480 @ 32-bit colour
+14:09:19: 720 x 480 @ 32-bit colour
+14:09:19: 720 x 576 @ 32-bit colour
+14:09:19: 800 x 600 @ 32-bit colour
+14:09:19: 1024 x 768 @ 32-bit colour
+14:09:19: 1152 x 864 @ 32-bit colour
+14:09:19: 1176 x 664 @ 32-bit colour
+14:09:19: 1280 x 720 @ 32-bit colour
+14:09:19: 1280 x 768 @ 32-bit colour
+14:09:19: 1280 x 800 @ 32-bit colour
+14:09:19: 1280 x 960 @ 32-bit colour
+14:09:19: 1280 x 1024 @ 32-bit colour
+14:09:19: 1360 x 768 @ 32-bit colour
+14:09:19: 1366 x 768 @ 32-bit colour
+14:09:19: 1440 x 1080 @ 32-bit colour
+14:09:19: 1600 x 900 @ 32-bit colour
+14:09:19: 1600 x 1024 @ 32-bit colour
+14:09:19: 1680 x 1050 @ 32-bit colour
+14:09:19: 1920 x 1080 @ 32-bit colour
+14:09:19: No
+14:09:19: Yes
+14:09:19: D3D11: RenderSystem Option: Full Screen = No
+14:09:19: D3D11: RenderSystem Option: Video Mode = 1920 x 1080 @ 32-bit colour
+14:09:19: D3D11: RenderSystem Option: Allow NVPerfHUD = No
+14:09:19: D3D11: RenderSystem Option: FSAA = 0
+14:09:19: D3D11: RenderSystem Option: VSync = No
+14:09:19: CPU Identifier & Features
+14:09:19: -------------------------
+14:09:19:  *   CPU ID: AuthenticAMD: AMD FX-8320E Eight-Core Processor
+14:09:19:  *          SSE: yes
+14:09:19:  *         SSE2: yes
+14:09:19:  *         SSE3: yes
+14:09:19:  *        SSE41: no
+14:09:19:  *        SSE42: no
+14:09:19:  *          MMX: yes
+14:09:19:  *       MMXEXT: yes
+14:09:19:  *        3DNOW: no
+14:09:19:  *     3DNOWEXT: no
+14:09:19:  *         CMOV: yes
+14:09:19:  *          TSC: yes
+14:09:19:  *INVARIANT TSC: yes
+14:09:19:  *          FPU: yes
+14:09:19:  *          PRO: yes
+14:09:19:  *           HT: no
+14:09:19: -------------------------
+14:09:19: D3D11: Subsystem Initialising
+14:09:19: D3D11: Driver Detection Starts
+14:09:19: D3D11: "NVIDIA GeForce GTX 1650"
+14:09:19: D3D11: "Microsoft Basic Render Driver (software)"
+14:09:19: D3D11: Driver Detection Ends
+14:09:19: D3D11: Requested "(default)", selected "NVIDIA GeForce GTX 1650"
+14:09:19: D3D11: Device Feature Level 11.1
+14:09:19: ***************************************
+14:09:19: *** D3D11: Subsystem Initialized OK ***
+14:09:19: ***************************************
+14:09:19: RenderSystem::_createRenderWindow "Window Forms Ogre", 0x0 windowed  miscParams: FSAA=1 Full Screen=No VSync=No externalWindowHandle=1771548 sRGB Gamma Conversion=No 
+14:09:19: D3D11: Created D3D11 Rendering Window 'Window Forms Ogre' : 884x501
+14:09:19: Warning: D3D11: disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+14:09:19: Registering ResourceManager for type Texture
+14:09:19: RenderSystem capabilities
+14:09:19: -------------------------
+14:09:19: RenderSystem Name: Direct3D11 Rendering Subsystem
+14:09:19: GPU Vendor: nvidia
+14:09:19: Device Name: NVIDIA GeForce GTX 1650
+14:09:19: Driver Version: 32.0.15.6603
+14:09:19:  * Fixed function pipeline: no
+14:09:19:  * 32-bit index buffers: yes
+14:09:19:  * Hardware stencil buffer: yes
+14:09:19:    - Two sided stencil support: yes
+14:09:19:    - Wrap stencil values: yes
+14:09:19:  * Gpu programs: yes
+14:09:19:    - Vertex constant 4-vectors: 4096
+14:09:19:    - Fragment constant 4-vectors: 4096
+14:09:19:  * Geometry programs: yes
+14:09:19:    - Number of constant 4-vectors: 4096
+14:09:19:  * Tessellation programs: yes
+14:09:19:    - Hull program constant 4-vectors: 4096
+14:09:19:    - Domain program constant 4-vectors: 4096
+14:09:19:  * Mesh programs: no
+14:09:19:  * Compute programs: yes
+14:09:19:    - Number of constant 4-vectors: 4096
+14:09:19:  * Supported Shader Profiles: cs_4_0 cs_4_1 cs_5_0 ds_5_0 gs_4_0 gs_4_1 gs_5_0 hlsl hs_5_0 ps_2_0 ps_2_a ps_2_b ps_3_0 ps_4_0 ps_4_0_level_9_1 ps_4_0_level_9_3 ps_4_1 ps_5_0 vs_2_0 vs_2_a vs_3_0 vs_4_0 vs_4_0_level_9_1 vs_4_0_level_9_3 vs_4_1 vs_5_0
+14:09:19:  * Read-back compiled shader: yes
+14:09:19:  * Number of vertex attributes: 32
+14:09:19:  * Textures
+14:09:19:    - Number of texture units: 16
+14:09:19:    - Number of vertex textures: 4
+14:09:19:    - Floating point: yes
+14:09:19:    - Non-power-of-two: yes
+14:09:19:    - 1D textures: yes
+14:09:19:    - 2D array textures: yes
+14:09:19:    - 3D textures: yes
+14:09:19:    - Anisotropic filtering: yes
+14:09:19:  * Texture Compression: yes
+14:09:19:    - DXT: yes
+14:09:19:    - VTC: no
+14:09:19:    - PVRTC: no
+14:09:19:    - ATC: no
+14:09:19:    - ETC1: no
+14:09:19:    - ETC2: no
+14:09:19:    - BC4/BC5: no
+14:09:19:    - BC6H/BC7: yes
+14:09:19:    - ASTC: no
+14:09:19:    - Automatic mipmap generation: no
+14:09:19:  * Vertex Buffers
+14:09:19:    - Render to Vertex Buffer: yes
+14:09:19:    - Instance Data: yes
+14:09:19:    - Primitive Restart: yes
+14:09:19:    - INT_10_10_10_2_NORM element type: no
+14:09:19:    - 16x3 element types: no
+14:09:19:  * Read/Write Buffers: no
+14:09:19:  * Hardware Occlusion Query: yes
+14:09:19:  * User clip planes: yes
+14:09:19:  * Depth clamping: yes
+14:09:19:  * Hardware render-to-texture: yes
+14:09:19:    - Multiple Render Targets: 8
+14:09:19:  * Point Sprites: no
+14:09:19:  * Wide Lines: no
+14:09:19:  * Hardware Gamma: no
+14:09:19: DefaultWorkQueue('Root') initialising on thread 17856.
+14:09:19: Particle Renderer Type 'billboard' registered
+14:09:19: SceneManagerFactory for type 'BspSceneManager' registered.
+14:09:19: SceneManagerFactory for type 'PCZSceneManager' registered.
+14:09:19: MovableObjectFactory for type 'PCZLight' registered.
+14:09:19: MovableObjectFactory for type 'Portal' registered.
+14:09:19: DefaultWorkQueue('Root')::WorkerFunc - thread 17352 starting.
+14:09:19: MovableObjectFactory for type 'AntiPortal' registered.
+14:09:19: PCZone Factory Type 'ZoneType_Octree' registered
+14:09:19: SceneManagerFactory for type 'OctreeSceneManager' registered.
+14:09:19: DefaultWorkQueue('Root')::WorkerFunc - thread 12076 starting.
+14:09:19: Parsing scripts for resource group BSPWorld
+14:09:19: Parsing script scripts/clown.shader
+14:09:19: Parsing script scripts/liquid_water.shader
+14:09:19: Parsing script scripts/oalite.shader
+14:09:19: Parsing script scripts/oanew.shader
+14:09:19: Parsing script scripts/oasky.shader
+14:09:19: Finished parsing scripts for resource group BSPWorld
+14:09:19: Creating resources for group BSPWorld
+14:09:19: All done
+14:09:19: Parsing scripts for resource group Essential
+14:09:19: Parsing script SdkTrays.material
+14:09:19: Parsing script OgreProfiler.material
+14:09:19: Finished parsing scripts for resource group Essential
+14:09:19: Creating resources for group Essential
+14:09:19: All done
+14:09:19: Parsing scripts for resource group General
+14:09:19: Parsing script pbr.program
+14:09:19: Parsing script pbr_filament.program
+14:09:19: Parsing script Examples.program
+14:09:19: Parsing script Instancing.program
+14:09:19: Parsing script StdQuad_vp.program
+14:09:19: Parsing script deferred_post.program
+14:09:19: Parsing script ShadowCaster.program
+14:09:19: Parsing script RomanBath.material
+14:09:19: Parsing script Sinbad.material
+14:09:19: Parsing script glTF2_PBR.material
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(37): overriding previous declarations of texture 'black.png' with different parameters
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(68): Parameter called u_BaseColorSampler does not exist. 
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(69): Parameter called u_NormalSampler does not exist. 
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(70): Parameter called u_EmissiveSampler does not exist. 
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(71): Parameter called u_MetallicRoughnessSampler does not exist. 
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(72): Parameter called u_OcclusionSampler does not exist. 
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(73): Parameter called u_DiffuseEnvSampler does not exist. 
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(74): Parameter called u_SpecularEnvSampler does not exist. 
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(75): Parameter called u_brdfLUT does not exist. 
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(79): Parameter called u_ScaleFGDSpec does not exist. 
+14:09:19: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(80): Parameter called u_ScaleDiffBaseMR does not exist. 
+14:09:19: Parsing script filament.material
+14:09:19: Parsing script AdaptivePNTrianglesTessellation.material
+14:09:19: Program 'Ogre/AmbientNoTessellation_vs' is not supported: referenced shared_params 'cbVertexBuffer' not found
+14:09:19: Program 'Ogre/AmbientNoTessellation_ps' is not supported: referenced shared_params 'cbPixelBuffer' not found
+14:09:19: Program 'Ogre/PerLightNoTessellation_vs' is not supported: referenced shared_params 'cbVertexBuffer' not found
+14:09:19: Program 'Ogre/PerLightNoTessellation_ps' is not supported: referenced shared_params 'cbPixelBuffer' not found
+14:09:19: Program 'Ogre/PNTrianglesTessellation/simple_tessellation_hs' is not supported: referenced shared_params 'cbTessellationBuffer' not found
+14:09:19: Program 'Ogre/PNTrianglesTessellation/simple_tessellation_ds' is not supported: referenced shared_params 'cbVertexBuffer' not found
+14:09:19: Program 'Ogre/PNTrianglesTessellation/adaptive_tessellation_hs' is not supported: Cannot compile D3D11 high-level shader Ogre/PNTrianglesTessellation/adaptive_tessellation_hs Errors:
+D:\GitHub\Ogre-D3D11Image\x64\Debug\adaptive_tessellation.hlsl(148,67-71): error X4576: Input signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:19: Program 'Ogre/PNTrianglesTessellation/adaptivePNTriangles_tessellation_vs' is not supported: Cannot compile D3D11 high-level shader Ogre/PNTrianglesTessellation/adaptivePNTriangles_tessellation_vs Errors:
+D:\GitHub\Ogre-D3D11Image\x64\Debug\adaptivePNTriangles_tessellation.hlsl(92,35-58): error X4577: Not all elements of SV_Position were written
+D:\GitHub\Ogre-D3D11Image\x64\Debug\adaptivePNTriangles_tessellation.hlsl(92,35-58): error X4576: Output signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:19: Program 'Ogre/PNTrianglesTessellation/adaptivePNTriangles_tessellation_hs' is not supported: Cannot compile D3D11 high-level shader Ogre/PNTrianglesTessellation/adaptivePNTriangles_tessellation_hs Errors:
+D:\GitHub\Ogre-D3D11Image\x64\Debug\adaptivePNTriangles_tessellation.hlsl(196,67-71): error X4576: Input signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:19: Program 'Ogre/PNTrianglesTessellation/adaptivePNTriangles_tessellation_ds' is not supported: Cannot compile D3D11 high-level shader Ogre/PNTrianglesTessellation/adaptivePNTriangles_tessellation_ds Errors:
+D:\GitHub\Ogre-D3D11Image\x64\Debug\adaptivePNTriangles_tessellation.hlsl(213,152-156): error X4576: Input signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:19: Program 'Ogre/PNTrianglesTessellation/adaptivePNTriangles_tessellation_ps' is not supported: referenced shared_params 'LightBuffer' not found
+14:09:19: Parsing script AdvancedGLSL.material
+14:09:19: Parsing script ASCII.material
+14:09:19: Parsing script BlackAndWhite.material
+14:09:19: Parsing script Bloom2.material
+14:09:20: Parsing script Compute.material
+14:09:20: Parsing script DamagedHelmet.material
+14:09:20: Error: ScriptCompiler - unexpected token in DamagedHelmet.material(49): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(68): Parameter called u_BaseColorSampler does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(69): Parameter called u_NormalSampler does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(70): Parameter called u_EmissiveSampler does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(71): Parameter called u_MetallicRoughnessSampler does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(72): Parameter called u_OcclusionSampler does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(73): Parameter called u_DiffuseEnvSampler does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(74): Parameter called u_SpecularEnvSampler does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(75): Parameter called u_brdfLUT does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(79): Parameter called u_ScaleFGDSpec does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in glTF2_PBR.material(80): Parameter called u_ScaleDiffBaseMR does not exist. 
+14:09:20: Error: ScriptCompiler - unexpected token in DamagedHelmet.material(49): token "rtshader_system" is not recognized
+14:09:20: Parsing script DepthShadowmap.material
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(9): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(30): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(44): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(60): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(74): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(9): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(30): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(44): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(60): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(74): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in DepthShadowmap.material(44): token "rtshader_system" is not recognized
+14:09:20: Parsing script Dither.material
+14:09:20: Parsing script DOF.material
+14:09:20: Error: ScriptCompiler - invalid parameters in DOF.material(17): Parameter called scene does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in DOF.material(18): Parameter called depth does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in DOF.material(19): Parameter called blur does not exist. 
+14:09:20: Parsing script Embossed.material
+14:09:20: Parsing script Examples-Advanced.material
+14:09:20: Error: ScriptCompiler - unexpected token in Examples-Advanced.material(372): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in Examples-Advanced.material(394): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in Examples-Advanced.material(372): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in Examples-Advanced.material(394): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - invalid parameters in Examples-Advanced.material(469): Parameter called noiseMap does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in Examples-Advanced.material(470): Parameter called reflectMap does not exist. 
+14:09:20: Error: ScriptCompiler - invalid parameters in Examples-Advanced.material(471): Parameter called refractMap does not exist. 
+14:09:20: Error: ScriptCompiler - unexpected token in Examples-Advanced.material(372): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - invalid parameters in Examples-Advanced.material(650): Parameter called TextureArrayTex does not exist. 
+14:09:20: Parsing script Examples-DynTex.material
+14:09:20: Parsing script Examples-Water.material
+14:09:20: Error: ScriptCompiler - invalid parameters in Examples-Water.material(130): overriding previous declarations of texture 'studio_garden.jpg' with different parameters
+14:09:20: Parsing script Examples.material
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(192): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(466): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(963): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(1233): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(1248): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(192): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(466): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(963): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(1233): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in Examples.material(1248): token "rtshader_system" is not recognized
+14:09:20: Parsing script facial.material
+14:09:20: Parsing script FluidSim.material
+14:09:20: Parsing script gaussiansplat.material
+14:09:20: Parsing script Glass.material
+14:09:20: Parsing script Hair.material
+14:09:20: Parsing script Halftone.material
+14:09:20: Parsing script HardwareSkinningShadow.material
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(13): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(30): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(47): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(64): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(80): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(97): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(114): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(131): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(147): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(164): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(181): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(198): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(13): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(30): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(47): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(64): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(80): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(97): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(114): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(131): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(147): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(164): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(181): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HardwareSkinningShadow.material(198): token "rtshader_system" is not recognized
+14:09:20: Parsing script hdr.material
+14:09:20: Parsing script HeatVision.material
+14:09:20: Program 'Fury/HeatVision/HeatCaster_HLSL_vp' is not supported: referenced shared_params 'MatrixBuffer' not found
+14:09:20: Program 'Fury/HeatVision/ColdCaster_HLSL_vp' is not supported: referenced shared_params 'MatrixBuffer' not found
+14:09:20: Parsing script HWInstancing.material
+14:09:20: Error: ScriptCompiler - unexpected token in HWInstancing.material(12): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HWInstancing.material(36): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HWInstancing.material(61): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:20: Error: ScriptCompiler - unexpected token in HWInstancing.material(12): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HWInstancing.material(36): token "rtshader_system" is not recognized
+14:09:20: Error: ScriptCompiler - unexpected token in HWInstancing.material(61): token "rtshader_system" is not recognized
+14:09:20: Parsing script HW_VTFInstancing.material
+14:09:20: Parsing script HW_VTF_LUTInstancing.material
+14:09:20: Parsing script Invert.material
+14:09:20: Parsing script Island.material
+14:09:20: Program 'Ogre/Island/MainToBackBufferPS' is not supported: referenced shared_params 'cb0' not found
+14:09:20: Program 'Ogre/Island/WaterNormalmapCombinePS' is not supported: referenced shared_params 'cb0' not found
+14:09:20: Program 'Ogre/Island/PatchHS' is not supported: referenced shared_params 'cb0' not found
+14:09:21: Program 'Ogre/Island/HeightFieldPatchDS' is not supported: referenced shared_params 'cb0' not found
+14:09:21: Program 'Ogre/Island/HeightFieldPatchPS' is not supported: referenced shared_params 'cb0' not found
+14:09:21: Program 'Ogre/Island/WaterPatchDS' is not supported: referenced shared_params 'cb0' not found
+14:09:21: Program 'Ogre/Island/WaterPatchPS' is not supported: Cannot compile D3D11 high-level shader Ogre/Island/WaterPatchPS Errors:
+error X3501: 'WaterPatchPS': entrypoint not found
+
+14:09:21: Parsing script IsoSurf.material
+14:09:21: Parsing script Laplace.material
+14:09:21: Parsing script LigthShafts.material
+14:09:21: Error: ScriptCompiler - invalid parameters in LigthShafts.material(26): Parameter called uDepthMap does not exist. 
+14:09:21: Error: ScriptCompiler - invalid parameters in LigthShafts.material(27): Parameter called uCookieMap does not exist. 
+14:09:21: Error: ScriptCompiler - invalid parameters in LigthShafts.material(28): Parameter called uNoiseMap does not exist. 
+14:09:21: Parsing script MotionBlur.material
+14:09:21: Parsing script NightVision.material
+14:09:21: Parsing script Ocean.material
+14:09:21: Parsing script OffsetMapping.material
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(19): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(46): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(78): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(94): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(102): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(19): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(46): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(78): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(94): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in OffsetMapping.material(102): token "rtshader_system" is not recognized
+14:09:21: Parsing script Ogre.material
+14:09:21: Parsing script OldMovie.material
+14:09:21: Parsing script OldTV.material
+14:09:21: Parsing script ParticleGS.material
+14:09:21: Parsing script Posterize.material
+14:09:21: Parsing script pssm.material
+14:09:21: Error: ScriptCompiler - unexpected token in pssm.material(11): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in pssm.material(11): token "rtshader_system" is not recognized
+14:09:21: Parsing script RadialBlur.material
+14:09:21: Parsing script RTShaderSystem.material
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(24): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(65): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(92): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(125): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(165): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(186): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(236): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(255): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(24): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(65): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(92): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(125): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(165): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(92): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(186): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(92): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(125): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(236): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in RTShaderSystem.material(255): token "rtshader_system" is not recognized
+14:09:21: Parsing script ShaderInstancing.material
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(12): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(27): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(42): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(66): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(89): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(113): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(12): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(27): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(42): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(66): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(89): token "rtshader_system" is not recognized
+14:09:21: Error: ScriptCompiler - unexpected token in ShaderInstancing.material(113): token "rtshader_system" is not recognized
+14:09:21: Parsing script SharpenEdges.material
+14:09:21: Parsing script ShowVertexAttributes.material
+14:09:21: Error: ScriptCompiler - unexpected token in ShowVertexAttributes.material(114): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:21: Error: ScriptCompiler - unexpected token in ShowVertexAttributes.material(114): token "rtshader_system" is not recognized
+14:09:21: Parsing script sibenik.material
+14:09:21: Parsing script smoke.material
+14:09:21: Parsing script TerrainTessellation.material
+14:09:21: Program 'Ogre/TerrainTessellation/HwTessellationPassThruVS' is not supported: Cannot compile D3D11 high-level shader Ogre/TerrainTessellation/HwTessellationPassThruVS Errors:
+TerrainTessellation.hlsl(239,48-79): warning X3576: semantics in type overridden by variable/function or enclosing type
+TerrainTessellation.hlsl(239,48-79): error X4577: Not all elements of SV_Position were written
+TerrainTessellation.hlsl(239,48-79): error X4576: Output signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:21: Program 'Ogre/TerrainTessellation/VTFDisplacementVS' is not supported: referenced shared_params 'UniformVariables' not found
+14:09:22: Program 'Ogre/TerrainTessellation/TerrainScreenspaceLODHS' is not supported: Cannot compile D3D11 high-level shader Ogre/TerrainTessellation/TerrainScreenspaceLODHS Errors:
+TerrainTessellation.hlsl(518,74): warning X3576: semantics in type overridden by variable/function or enclosing type
+TerrainTessellation.hlsl(414,97-98): warning X3576: semantics in type overridden by variable/function or enclosing type
+TerrainTessellation.hlsl(400,6-17): warning X3556: integer modulus may be much slower, try using uints if possible.
+TerrainTessellation.hlsl(518,74): error X4576: Input signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:22: Program 'Ogre/TerrainTessellation/TerrainDisplaceDS' is not supported: Cannot compile D3D11 high-level shader Ogre/TerrainTessellation/TerrainDisplaceDS Errors:
+TerrainTessellation.hlsl(599,53-63): error X4576: Input signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:22: Program 'Ogre/TerrainTessellation/SmoothShadePS' is not supported: referenced shared_params 'UniformVariables' not found
+14:09:22: Parsing script Tessellation.material
+14:09:22: Program 'Ogre/Tessellation/TessellationHullProgramHLSL' is not supported: Cannot compile D3D11 high-level shader Ogre/Tessellation/TessellationHullProgramHLSL Errors:
+D:\GitHub\Ogre-D3D11Image\x64\Debug\Tessellation.hlsl(56,76-77): error X4576: Input signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:22: Program 'Ogre/Tessellation/TessellationDomainProgramHLSL' is not supported: Cannot compile D3D11 high-level shader Ogre/Tessellation/TessellationDomainProgramHLSL Errors:
+D:\GitHub\Ogre-D3D11Image\x64\Debug\Tessellation.hlsl(97,53-56): error X4576: Input signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:22: Program 'Ogre/Tessellation/VertexProgramHLSL' is not supported: Cannot compile D3D11 high-level shader Ogre/Tessellation/VertexProgramHLSL Errors:
+D:\GitHub\Ogre-D3D11Image\x64\Debug\Tessellation.hlsl(35,26-58): error X4577: Not all elements of SV_Position were written
+D:\GitHub\Ogre-D3D11Image\x64\Debug\Tessellation.hlsl(35,26-58): error X4576: Output signature parameter SV_Position (1-based Entry 0) type must be float32 and mask must be xyzw. 
+
+14:09:22: Parsing script Tiling.material
+14:09:22: Parsing script VTFInstancing.material
+14:09:22: Parsing script WBOIT.material
+14:09:22: Error: ScriptCompiler - invalid parameters in WBOIT.material(22): Parameter called accumTexture does not exist. 
+14:09:22: Error: ScriptCompiler - invalid parameters in WBOIT.material(23): Parameter called revealageTexture does not exist. 
+14:09:22: Parsing script deferreddemo.material
+14:09:22: Error: ScriptCompiler - unexpected token in deferreddemo.material(47): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:22: Error: ScriptCompiler - unexpected token in deferreddemo.material(52): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:22: Error: ScriptCompiler - unexpected token in deferreddemo.material(70): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:22: Error: ScriptCompiler - unexpected token in deferreddemo.material(75): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:22: Error: ScriptCompiler - unexpected token in deferreddemo.material(47): token "rtshader_system" is not recognized
+14:09:22: Error: ScriptCompiler - unexpected token in deferreddemo.material(52): token "rtshader_system" is not recognized
+14:09:22: Error: ScriptCompiler - unexpected token in deferreddemo.material(70): token "rtshader_system" is not recognized
+14:09:22: Error: ScriptCompiler - unexpected token in deferreddemo.material(75): token "rtshader_system" is not recognized
+14:09:22: Parsing script deferred_post.material
+14:09:22: Parsing script deferred_post_minilight.material
+14:09:22: Parsing script ShadowCaster.material
+14:09:22: Parsing script ssao.material
+14:09:22: Parsing script ROOM.material
+14:09:22: Parsing script CreaseShading.material
+14:09:22: Parsing script Crytek.material
+14:09:22: Parsing script GBuffer.material
+14:09:22: Error: ScriptCompiler - unexpected token in GBuffer.material(7): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:22: Error: ScriptCompiler - unexpected token in GBuffer.material(7): token "rtshader_system" is not recognized
+14:09:22: Parsing script HemisphereMC.material
+14:09:22: Parsing script HorizonBased.material
+14:09:22: Parsing script Modulate.material
+14:09:22: Parsing script ShowDepth.material
+14:09:23: Parsing script ShowNormals.material
+14:09:23: Parsing script ShowViewPos.material
+14:09:23: Parsing script SSAOPost.material
+14:09:23: Parsing script UnsharpMask.material
+14:09:23: Parsing script Volumetric.material
+14:09:23: Parsing script triplanarReference.material
+14:09:23: Error: ScriptCompiler - unexpected token in triplanarReference.material(9): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:23: Error: ScriptCompiler - unexpected token in triplanarReference.material(9): token "rtshader_system" is not recognized
+14:09:23: Parsing script CSMShadows.material
+14:09:23: Parsing script emitted_emitter.particle
+14:09:23: Parsing script Examples-Water.particle
+14:09:23: Parsing script Examples.particle
+14:09:23: Parsing script smoke.particle
+14:09:23: Parsing script Examples.compositor
+14:09:23: Parsing script deferred.compositor
+14:09:23: Parsing script ssao.compositor
+14:09:23: Parsing script SSAO.compositor
+14:09:23: Parsing script SSAOPost.compositor
+14:09:23: Finished parsing scripts for resource group General
+14:09:23: Creating resources for group General
+14:09:23: All done
+14:09:23: Parsing scripts for resource group OgreAutodetect
+14:09:23: Finished parsing scripts for resource group OgreAutodetect
+14:09:23: Creating resources for group OgreAutodetect
+14:09:23: All done
+14:09:23: Parsing scripts for resource group OgreInternal
+14:09:23: Parsing script ShadowVolumeExtude.program
+14:09:23: Parsing script Shadow.material
+14:09:23: Parsing script RTSSamplers.material
+14:09:23: Finished parsing scripts for resource group OgreInternal
+14:09:23: Creating resources for group OgreInternal
+14:09:23: All done
+14:09:23: Parsing scripts for resource group Tests
+14:09:23: Parsing script glow.material
+14:09:23: Parsing script MRTtest.material
+14:09:23: Parsing script Swizzle.material
+14:09:23: Parsing script tests.material
+14:09:23: Error: ScriptCompiler - unexpected token in tests.material(10): 'rtshader_system'. If this is a legacy script you must prepend the type (e.g. font, overlay).
+14:09:23: Error: ScriptCompiler - unexpected token in tests.material(10): token "rtshader_system" is not recognized
+14:09:23: Parsing script tests.compositor
+14:09:23: Finished parsing scripts for resource group Tests
+14:09:23: Creating resources for group Tests
+14:09:23: All done
+14:09:23: Mesh: Loading ogrehead.mesh.
+14:09:23: Texture 'GreenSkin.jpg': Loading 1 faces(PF_B8G8R8,256x256x1) with 8 generated mipmaps from Image. Internal format is PF_A8B8G8R8,256x256x1.
+14:09:23: Texture 'spheremap.png': Loading 1 faces(PF_B8G8R8,256x256x1) with 8 generated mipmaps from Image. Internal format is PF_A8B8G8R8,256x256x1.
+14:09:23: Texture 'tusk.jpg': Loading 1 faces(PF_B8G8R8,128x128x1) with 7 generated mipmaps from Image. Internal format is PF_A8B8G8R8,128x128x1.
+14:09:25: DefaultWorkQueue('Root') shutting down on thread 11964.
+14:09:25: DefaultWorkQueue('Root')::WorkerFunc - thread 17352 stopped.
+14:09:25: DefaultWorkQueue('Root')::WorkerFunc - thread 12076 stopped.
+14:09:25: PCZone Factory Type 'ZoneType_Octree' unregistered

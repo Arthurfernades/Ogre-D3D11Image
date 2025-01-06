@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (D3DVisualization_dxsdk.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  D3DVisualization.cpp
+  DX11Utils.cpp
+  OrbitCamera.cpp
+  Generating Code...
+     Creating library D:\GitHub\Ogre-D3D11Image\x64\Debug\D3DVisualization.lib and object D:\GitHub\Ogre-D3D11Image\x64\Debug\D3DVisualization.exp
+  D3DVisualization_winsdk.vcxproj -> D:\GitHub\Ogre-D3D11Image\x64\Debug\D3DVisualization.dll
+          1 arquivo(s) copiado(s).

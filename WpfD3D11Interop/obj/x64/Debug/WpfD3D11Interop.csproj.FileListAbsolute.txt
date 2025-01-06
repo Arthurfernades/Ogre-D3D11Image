@@ -1,0 +1,49 @@
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\x64\Debug\WpfD3D11Interop.exe.config
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\x64\Debug\WpfD3D11Interop.exe
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\x64\Debug\WpfD3D11Interop.pdb
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.csproj.AssemblyReference.cache
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\MainWindow.baml
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\MainWindow.g.cs
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\App.g.cs
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop_MarkupCompile.cache
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.g.resources
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\Microsoft.Samples.Wpf.D3D11Interop.Properties.Resources.resources
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.csproj.GenerateResource.cache
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.csproj.CoreCompileInputs.cache
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11.9C8E2F79.Up2Date
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.exe
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop_root\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.pdb
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.csproj.AssemblyReference.cache
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\MainWindow.baml
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\MainWindow.g.cs
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\App.g.cs
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop_MarkupCompile.cache
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.g.resources
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\Microsoft.Samples.Wpf.D3D11Interop.Properties.Resources.resources
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.csproj.GenerateResource.cache
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.csproj.CoreCompileInputs.cache
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.exe
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.pdb
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\x64\Debug\WpfD3D11Interop.exe.config
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\x64\Debug\WpfD3D11Interop.exe
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\x64\Debug\WpfD3D11Interop.pdb
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11.9C8E2F79.Up2Date
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\3D\Ogre 3D\Ferramentas\WPFDXInterop\samples\D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop_MarkupCompile.lref
+D:\GitHub\Ogre-D3D11Image\x64\Debug\WpfD3D11Interop.exe.config
+D:\GitHub\Ogre-D3D11Image\x64\Debug\WpfD3D11Interop.exe
+D:\GitHub\Ogre-D3D11Image\x64\Debug\WpfD3D11Interop.pdb
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.csproj.AssemblyReference.cache
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\MainWindow.g.cs
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\App.g.cs
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop_MarkupCompile.cache
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop_MarkupCompile.lref
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\MainWindow.baml
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.g.resources
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\Microsoft.Samples.Wpf.D3D11Interop.Properties.Resources.resources
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.csproj.GenerateResource.cache
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.csproj.CoreCompileInputs.cache
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11.9C8E2F79.Up2Date
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.exe
+D:\GitHub\Ogre-D3D11Image\WpfD3D11Interop\obj\x64\Debug\WpfD3D11Interop.pdb
